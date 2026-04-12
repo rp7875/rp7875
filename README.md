@@ -1,37 +1,105 @@
-<h1 align="center">Hi 👋, I'm rahul patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">👋 Hi, I'm Rahul Patil</h1>
+<h3 align="center">🚀 Full Stack Python Developer | Django | React | AWS ☁️</h3>
 
-<h3 align="left">Connect with me : 7875550316</h3>
-<p align="left">
+<p align="center">
+  <a href="mailto:rahulkpatil127.gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/rahul-patil-04b17a382">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://rahulpatil127.github.io/portfolio/in/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me  
 
+💻 Full Stack Developer specializing in **Python & Web Technologies**  
+⚡ Building scalable apps using **Django + React**  
+🌱 Exploring **Cloud (AWS) & Backend Architecture**  
+🎯 Focused on clean code, performance & modern UI  
 
+---
 
-# 👋 Hi, I'm rahul patil!
+## 🧠 Tech Stack  
 
-Welcome to my GitHub profile.
+### 👨‍💻 Programming & Querying  
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-## 🚀 About Me
+---
 
-- 🔭 I’m currently working on a web app
-- 🌱 I’m learning React and Node.js
-- 💬 Ask me about HTML, CSS, and JavaScript
-- 📫 How to reach me: [rahulkpatil127.gmail.com](mailto:your.email@example.com)
+### 🗄️ Database & ORM  
+- MySQL  
+- SQLAlchemy  
+- PyDBC / ODBC  
+- Django ORM  
 
-## 🛠️ Skills
+---
 
-- 💻 HTML | CSS | JavaScript
-- ⚙️ React | Node.js | Git & GitHub
-- 🗃️ MongoDB | MySQL
+### 🌐 Web Technologies  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-## 📈 GitHub Stats
+---
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### ⚙️ Frameworks & Libraries  
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,bootstrap,tailwind" />
+</p>
 
-## 📫 Connect With Me
+- jQuery  
+- REST APIs  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rahul-patil-04b17a382)
+---
+
+### 🛠️ Tools & Version Control  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman,linux" />
+</p>
+
+- Kali Linux  
+
+---
+
+### ☁️ Cloud  
+- AWS (EC2, S3)  
+
+---
+
+## 🌐 Portfolio  
+
+🚀 Check out my work:  
+👉 https://rahulpatil127.github.io/portfolio/in/
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulpatil127&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpatil127&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🔥 Top Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatil127&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## ⚡ Fun Fact  
+
+💡 I build **complete full stack systems** — from database to UI 🚀  
+
+---
+
+<p align="center">🔥 Thanks for visiting my profile 🔥</p>
