@@ -75,7 +75,7 @@
 ## 📦 Repositories  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-5-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/repos/rahulpatil127?style=for-the-badge&color=blue&logo=github" />
   <img src="https://img.shields.io/badge/Total%20Repos-10-green?style=for-the-badge&logo=github"/>
 </p>
 
