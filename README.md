@@ -72,43 +72,21 @@
 
 ---
 
+## 📦 Repositories  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-5-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Total%20Repos-10-green?style=for-the-badge&logo=github"/>
+</p>
+
+👉 *Total includes private repositories*
+
+---
+
 ## 🌐 Portfolio  
 
 🚀 Check out my work:  
 👉 https://rahulpatil127.github.io/portfolio/in/
-
----
-
-## 📊 GitHub Stats (Private Included)  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulpatil127&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpatil127&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🟩 Contribution Graph (GitHub Style Green Grid)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatil127&theme=github" />
-</p>
-
----
-
-## 🔥 Extra Green Activity View  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulpatil127&theme=github" />
-</p>
-
----
-
-## 🔥 Top Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatil127&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
