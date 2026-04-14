@@ -75,8 +75,8 @@
 ## 📦 Repositories  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-rahulpatil127-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Total%20Repos-10-green?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-5-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Total%20Repos-12-green?style=for-the-badge&logo=github"/>
 </p>
 
 👉 *Total includes private repositories*
@@ -106,4 +106,4 @@
 
 ---
 
-<p align="center">🔥 Thanks for visiting my profile 🔥</p>
+<p align="center">🔥 Thanks for visiting my profile 🔥</p>ftota
