@@ -75,8 +75,8 @@
 ## 📦 Repositories  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-5-blue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Total%20Repos-12-green?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-7-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Total%20Repos-16-green?style=for-the-badge&logo=github"/>
 </p>
 
 👉 *Total includes private repositories*
